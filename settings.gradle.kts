@@ -1,4 +1,4 @@
-rootProject.name = "%NAME%"
+rootProject.name = "Advent-of-Code-2024-in-Kotlin"
 
 pluginManagement {
     repositories {
